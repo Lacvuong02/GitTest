@@ -1,0 +1,12 @@
+def fibonaccis_sekvens():
+# Parameter bliver defineret
+    Parameter = n
+# Base case bliver fundet
+    n <= 0:
+    return 0:
+    n == 1:
+    return 1:
+# Rekursiv case bliver fundet
+    n > 1:
+    return f(n-1) + f(n-2):
+
